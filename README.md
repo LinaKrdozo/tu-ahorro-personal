@@ -20,14 +20,14 @@ Este proyecto esta dividido en cuatro secciones:
 - javaScript
 
 ## Instalación
-1(a). puedes instalarlo clonando el repositorio del proyecto 
+- puedes instalarlo clonando el repositorio del proyecto 
 
 ```
 git clone https://github.com/LinaKrdozo/tu-ahorro-personal.git
 ```
-1(b). puedes descargar el proyecto comprimido 
+- puedes descargar el proyecto comprimido 
 
-2. ejecutarlo en un editor de código fuente
+- ejecutarlo en un editor de código fuente
 
 ## Despliegue
 El proyecto de desplegó en la plataforma Heroku, para visualizar el proyecto haz click aqui: https://mysterious-crag-89480.herokuapp.com/
