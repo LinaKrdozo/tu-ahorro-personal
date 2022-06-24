@@ -13,7 +13,7 @@ Este proyecto esta dividido en cuatro secciones:
 
 4. Los archivos correspondientes a la carpeta img, son el banco de imágenes utilizado para cada una de las páginas realizadas.
 
-# mapa de navegación:
+## mapa de navegación:
 ![mapaNavegabilidad](https://user-images.githubusercontent.com/84297258/175440170-bf908ef4-476b-4995-be16-2a6a966fe730.png)
 
 ## Tecnologías utilizadas
